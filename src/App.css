@@ -1,0 +1,18 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Gothic+A1:wght@300;400;500;600;700&display=swap');
+
+.App {
+  background-color: white;
+}
+
+* {
+  font-family: 'Gothic A1', sans-serif;
+
+}
+
+/* label {
+  font-size: 14px;
+  font-weight: 600;
+  color: rgb(34, 34, 34);
+} */
+
